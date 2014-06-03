@@ -1,0 +1,1 @@
+\alpha	 \theta	 \o	 \tau	 \beta	 \theta	 \pi	 \upsilon	 \gamma	 \gamma	 \pi	 \phi	 \delta	 \kappa	 \rho	 \phi	 \epsilon	 \lambda	 \rho	 \chi	 \epsilon	 \mu	 \sigma	 \psi	 \zeta	 \nu	 \sigma	 \omega	 \eta	 \xi	 \Gamma	 \Lambda	 \Sigma	 \Psi	 \Delta	 \Xi	 \Upsilon	 \Omega	 \Theta	 \Pi	 \Phi	
